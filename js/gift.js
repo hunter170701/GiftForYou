@@ -25,7 +25,7 @@ function showMessageForIdLinh(){
 
 function unDoForIdDuc(){
     var id = document.getElementById("duc");
-    id.style.backgroundImage = "url(" + '../img/ducimage.jpg'+ ")";
+    id.style.backgroundImage = "url(" + './img/ducimage.jpg'+ ")";
     id.style.backgroundSize = "cover";
     id.innerHTML = "<span style = 'opacity: 0;'>asfasfasfasfsfasfasfas<br><br><br><br><br><br><br><br>";
     
@@ -33,7 +33,7 @@ function unDoForIdDuc(){
 
 function unDoForIdLinh(){
     var id = document.getElementById("Linh");
-    id.style.backgroundImage = "url(" + '../img/linhImage.jpg'+ ")";
+    id.style.backgroundImage = "url(" + './img/linhImage.jpg'+ ")";
     id.style.backgroundSize = "cover";
     id.innerHTML = "<span style = 'opacity: 0;'>asfasfasfasfsfasfasfas<br><br><br><br><br><br><br><br>";
 }

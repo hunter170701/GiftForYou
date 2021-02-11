@@ -20,7 +20,6 @@ function showMessageForIdLinh(){
     id.style.padding = "10px 10px"
     id.style.backgroundColor = "#6495ED";
     id.style.backgroundImage = "url('')";
-    id.style.margin = "0 0 29px";
 }
 
 function unDoForIdDuc(){

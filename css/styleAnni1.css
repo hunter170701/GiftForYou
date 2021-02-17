@@ -24,13 +24,13 @@ body {
   font-size: 7rem;
 }
 .main {
-  margin: 8rem 0 2.8rem;
+  margin: 8rem 0 3rem;
   display: flex;
   justify-content: center;
 }
 .main .img {
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 20rem;
+  max-height: 20rem;
 }
 .main .sub__image {
   text-align: center;
@@ -56,4 +56,5 @@ body {
   text-align: right;
   font-family: "niconne", sans-serif;
   font-size: 1rem;
+  margin-top: 15.5rem;
 }
